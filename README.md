@@ -11,7 +11,10 @@
   My goal is to develop services that will make life easier.. :반짝임: <br/><br/>
 </p>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nmdkims&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&layout=compact&hide_border=true&theme=white)
-## Platforms & Languages
+
+  
+  
+  ## Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
