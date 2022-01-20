@@ -1,14 +1,14 @@
 <div align=center>
   <p>
-  <a href="https://dawnpast12.tistory.com/category/TIL" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://blog.naver.com/24bba" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:kyaxxt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kyaxxt@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="www.linkedin.com/in/yangyim-choi-b5486322a" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 <p>
   Hello I am a new developer specializing in machine learning.<br/>
   We are working on it based on Python DJango.<br/><br/>
-  I enjoy squash, Baduk and computer game. <br/>
-  My goal is to develop services that will make life easier.. :반짝임: <br/><br/>
+  I enjoy daytrading, watching movie and coffee. <br/>
+  My goal is to develop services that will make life easier. 💛 <br/><br/>
 </p>
   
   
